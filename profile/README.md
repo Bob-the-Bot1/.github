@@ -16,6 +16,6 @@
 
     📨 Invite bot - https://tinyurl.com/invite-bob-the-bot
 
-    📧 Email - mailto:bobthebot-help@outlook.com
+    📧 Email - bobthebot-help@outlook.com
 
     😺 Github - https://github.com/Bob-the-Bot1
